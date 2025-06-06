@@ -24,9 +24,9 @@ DigVer is a demo web application that simulates a digital credential ecosystem, 
 
 ## Screenshots
 
-(Screenshot%202025-06-06%20185318.png)
+![Issue Credential](Screenshot%202025-06-06%20185318.png)
 
-(Screenshot%202025-06-06%20185415.png)
+![Verify Credential](Screenshot%202025-06-06%20185415.png)
 
 
 ## How it Works
